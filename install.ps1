@@ -5,7 +5,7 @@ powershell Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.Service
 choco install em-client -y
 
 # OpenOffice
-choco install openoffice -y
+#choco install openoffice -y
 
 # Firefox 
 choco install firefox -y
