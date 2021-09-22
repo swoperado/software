@@ -4,14 +4,14 @@ powershell Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.Service
 # emClient
 choco install em-client -y
 
-# OpenOffice
-#choco install openoffice -y
-
 # Firefox 
 choco install firefox -y
 
 # Vscodium
 choco install vscodium -y
+
+# OpenOffice
+choco install openoffice -y
 
 # Chrome 
 #choco install chrome-remote-desktop-chrome -y
