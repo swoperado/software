@@ -14,4 +14,4 @@ choco install vscodium -y
 choco install openoffice -y
 
 # Chrome 
-#choco install chrome-remote-desktop-chrome -y
+choco install chrome-remote-desktop-chrome -y
